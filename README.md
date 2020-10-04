@@ -1,2 +1,0 @@
-# SVM
-SVM Image Classification 
